@@ -3,3 +3,12 @@
     color: aqua;
     background-color: rgb(13, 11, 13);
 }
+.purple-bg{
+    background-color: purple !important;
+}
+.large-text{
+    font-size: large;
+}
+.text-center{
+    text-align: center;
+}
